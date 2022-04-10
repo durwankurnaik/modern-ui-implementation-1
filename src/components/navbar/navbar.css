@@ -32,6 +32,10 @@
   align-items: center;
 }
 
+.gpt3__navbar-sign p {
+  cursor: pointer;
+}
+
 .gpt3__navbar-links_container p,
 .gpt3__navbar-sign p,
 .gpt3__navbar-menu_container {
